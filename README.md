@@ -1,3 +1,3 @@
-# Neural-Networks-
+# Neural-Networks
 
-This is a simple neural network of one neural layer, made using Tensorflow.
+This repo contains the programs i made when learning about Neural Networks.
